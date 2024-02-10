@@ -18,4 +18,4 @@ pip install neuralprophet
 
 A documentação completa do NeuralProphet está disponível online em:
 
-![Aqui](https://neuralprophet.com/contents.html#)
+[Aqui](https://neuralprophet.com/contents.html#)
