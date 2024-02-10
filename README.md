@@ -1,4 +1,4 @@
-![Logo](https://github.com/[ozzygomes]/[NeuralProphet_guide]/blob/[main]/logo.png?raw=true)
+![Logo](https://github.com/OzzyGomes/NeuralProphet_guide/blob/main/logo.png?raw=true)
 
 NeuralProphet: Uma biblioteca Python para previsão de séries temporais
 NeuralProphet é uma biblioteca Python de código aberto que facilita a previsão de séries temporais com redes neurais. Ela oferece diversas vantagens em relação a outras ferramentas:
@@ -18,4 +18,4 @@ pip install neuralprophet
 
 A documentação completa do NeuralProphet está disponível online em:
 
-![Aqui]<https://neuralprophet.com/contents.html#>
+![Aqui](https://neuralprophet.com/contents.html#)
